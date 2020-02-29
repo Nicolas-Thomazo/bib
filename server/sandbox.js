@@ -1,21 +1,52 @@
 /* eslint-disable no-console, no-process-exit */
 const michelin = require('./michelin');
+const maitre = require('./maitre');
 
-async function sandbox (searchLink = 'https://guide.michelin.com/fr/fr/centre-val-de-loire/veuves/restaurant/l-auberge-de-la-croix-blanche') {
-  try {
-    console.log(`🕵️‍♀️  browsing ${searchLink} source`);
+var fs = require('fs');
 
-    const restaurant = await michelin.scrapeRestaurant(searchLink);
+//This to scrap all the elements from the website and put them in 2 different files
+//michelin.scraping();
+//maitre.scraping();
 
-    console.log(restaurant);
-    console.log('done');
-    process.exit(0);
-  } catch (e) {
-    console.error(e);
-    process.exit(1);
-  }
-}
 
-const [,, searchLink] = process.argv;
+restaurant_common = [];
 
-sandbox(searchLink);
+let fichier_bib = fs.readFileSync('michelin.json');
+  let restaurants_bib = JSON.parse(fichier_bib);
+  
+
+
+  let fichier_maitre = fs.readFileSync('maitre.json');
+  let restaurants_maitre = JSON.parse(fichier_maitre);
+
+/*
+  compteur_michelin = 0;
+  restaurants_bib.forEach(restaurant => {
+    compteur_michelin++;
+  });
+  console.log("Il y a " + compteur_michelin + " restaurants dans michelin");
+  
+  compteur_maitre = 0;
+  restaurants_maitre.forEach(restaurant => {
+    compteur_maitre++;
+  });
+  console.log("Il y a " + compteur_maitre + " restaurants dans maitre");
+*/
+
+  
+  restaurants_bib.forEach(restaurant_bib => {
+    restaurants_maitre.forEach(restaurant_maitre => {
+      if(restaurant_bib.telephone == restaurant_maitre.phone)
+      {
+        restaurant_common.push(restaurant_bib);
+      }
+    });
+  });
+
+  count_common = 0;
+  restaurant_common.forEach(restaurant => {
+    //console.log(restaurant.description);
+    count_common++;
+  });
+  console.log(count_common);
+

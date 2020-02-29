@@ -1,0 +1,116 @@
+,
+	{
+		"name": "Le Rousseau",
+		"address": "3 rue Jean-Jacques-Rousseau, Grenoble, 38000, France",
+		"description": "Le Rousseau, c'est un jeune chef, Élie Michel-Villaz, qui a fait de la simplicité son mantra et sa principale qualité. La partition est fraîche, travaillée avec beaucoup de soin, mariée à des flacons choisis avec amour (250 références, beaucoup de nature et biodynamie)... et servie en toute convivialité. Une affaire qui roule.",
+		"telephone": null,
+		"site": "http://www.restaurantlerousseau.fr",
+		"prix": " 23 - 39 EUR • Cuisine actuelle 23 - 39 EUR • Cuisine actuelle "
+	}
+,
+	{
+		"name": "Les 3 Faisans",
+		"address": "330 rue des Auberges, Saint-Savin, 38300, France",
+		"description": "Aux pieds des vignes, ce restaurant abrite deux petites salles chaleureuses ; on peut aussi s'installer sur la terrasse ombragée, pendant que mijotent les délicieux plats imaginés par le chef – œuf poché, crème de pomme de terre et coppa, magret d'oie au gingembre confit... Jolie carte des vins qui compte environ 200 références.",
+		"telephone": null,
+		"site": "http://www.les3faisans.fr",
+		"prix": " 32 - 65 EUR • Cuisine moderne 32 - 65 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "La Table du Sommelier",
+		"address": "20 rue Porta, Albi, 81000, France",
+		"description": "Père et fils, sommeliers de formation, travaillent en duo dans ce sympathique bistrot contemporain. Le résultat ? Une cuisine savoureuse, qui revisite habilement le terroir, un imposant choix de vins (500 références), et, l'été, deux terrasses au choix : sous la pergola ou à ciel ouvert... Une adresse hautement recommandable.",
+		"telephone": null,
+		"site": "http://www.latabledusommelier.com",
+		"prix": " 18 - 53 EUR • Cuisine moderne 18 - 53 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "Au Bouchon Breton",
+		"address": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
+		"description": "Charline et Jérôme ont métamorphosé cette ancienne crêperie du centre-ville de Dinard, et le résultat est ce Bouchon Breton où ils célèbrent la tradition bistrotière de belle manière. C'est savoureux, mitonné avec soin, et ils nous offrent même, il faut le noter, d'excellents desserts... Un vrai bon plan.",
+		"telephone": null,
+		"site": "http://www.au-bouchon-breton.com",
+		"prix": " 18 - 52 EUR • Cuisine traditionnelle 18 - 52 EUR • Cuisine traditionnelle "
+	}
+,
+	{
+		"name": "Les Jardins du Léman",
+		"address": "Grande-Rue, Yvoire, 74140, France",
+		"description": "Au cœur de la cité médiévale, cette vénérable auberge propose des plats gourmands, joliment travaillés, et un sympathique menu gibier à l'automne. Le plus ? Une somptueuse terrasse panoramique sur le lac Léman, où vous vous attablerez les soirs d'été.",
+		"telephone": null,
+		"site": "http://www.lesjardinsduleman.com",
+		"prix": " 25 - 80 EUR • Cuisine moderne 25 - 80 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "La Maison de Marie",
+		"address": "24 rue Gabriel-Vicaire, Perros-Guirec, 22700, France",
+		"description": "Cette élégante maison en granit rose semble vibrer à l'unisson de la côte... Le chef, Daniel Jaguin, a pour boussole les beaux produits de la région (Saint-Jacques des Côtes-d'Armor, huîtres de Lanmodez, etc. ), qu'il agrémente avec une pointe d'originalité – notes exotiques, épices lointaines. Clair comme de l'eau de roche !",
+		"telephone": null,
+		"site": "http://www.lamaisondemarie-laclarte.bzh",
+		"prix": " 33 - 80 EUR • Cuisine moderne 33 - 80 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "Auberge de la Clue",
+		"address": "place de l'Église, Plaisians, 26170, France",
+		"description": "En montant vers ce village montagnard, arrêtez-vous devant la jolie Clue, goulet d’étranglement où les cours d’eau s’emballent. On vient de loin pour savourer cette cuisine du terroir face au mont Ventoux : caillette aux herbes, pieds et paquets, terrine de fromage de tête... Attention : de novembre à mars, l'auberge n'ouvre que les weekends.",
+		"telephone": null,
+		"prix": " 30 - 60 EUR • Cuisine traditionnelle 30 - 60 EUR • Cuisine traditionnelle "
+	}
+,
+	{
+		"name": "La Récré",
+		"address": "70 route de Satillieu, Vaudevant, 07410, France",
+		"description": "Installé dans l'ancienne école de garçons du village, dont il a conservé les vestiges – tableau noir, cartes de géographie –, ce restaurant ne pouvait mieux porter son nom. On y découvre des créations pétillantes, qui piochent allègrement dans les produits du terroir ; et c'est encore meilleur lorsqu'on est attablé dans la cour ombragée...",
+		"telephone": null,
+		"site": "http://www.restaurant-la-recre.com",
+		"prix": " 28 - 39 EUR • Cuisine moderne 28 - 39 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "Le Rousseau",
+		"address": "3 rue Jean-Jacques-Rousseau, Grenoble, 38000, France",
+		"description": "Le Rousseau, c'est un jeune chef, Élie Michel-Villaz, qui a fait de la simplicité son mantra et sa principale qualité. La partition est fraîche, travaillée avec beaucoup de soin, mariée à des flacons choisis avec amour (250 références, beaucoup de nature et biodynamie)... et servie en toute convivialité. Une affaire qui roule.",
+		"telephone": null,
+		"site": "http://www.restaurantlerousseau.fr",
+		"prix": " 23 - 39 EUR • Cuisine actuelle 23 - 39 EUR • Cuisine actuelle "
+	}
+,
+	{
+		"name": "Les 3 Faisans",
+		"address": "330 rue des Auberges, Saint-Savin, 38300, France",
+		"description": "Aux pieds des vignes, ce restaurant abrite deux petites salles chaleureuses ; on peut aussi s'installer sur la terrasse ombragée, pendant que mijotent les délicieux plats imaginés par le chef – œuf poché, crème de pomme de terre et coppa, magret d'oie au gingembre confit... Jolie carte des vins qui compte environ 200 références.",
+		"telephone": null,
+		"site": "http://www.les3faisans.fr",
+		"prix": " 32 - 65 EUR • Cuisine moderne 32 - 65 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "La Table du Sommelier",
+		"address": "20 rue Porta, Albi, 81000, France",
+		"description": "Père et fils, sommeliers de formation, travaillent en duo dans ce sympathique bistrot contemporain. Le résultat ? Une cuisine savoureuse, qui revisite habilement le terroir, un imposant choix de vins (500 références), et, l'été, deux terrasses au choix : sous la pergola ou à ciel ouvert... Une adresse hautement recommandable.",
+		"telephone": null,
+		"site": "http://www.latabledusommelier.com",
+		"prix": " 18 - 53 EUR • Cuisine moderne 18 - 53 EUR • Cuisine moderne "
+	}
+,
+	{
+		"name": "Au Bouchon Breton",
+		"address": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
+		"description": "Charline et Jérôme ont métamorphosé cette ancienne crêperie du centre-ville de Dinard, et le résultat est ce Bouchon Breton où ils célèbrent la tradition bistrotière de belle manière. C'est savoureux, mitonné avec soin, et ils nous offrent même, il faut le noter, d'excellents desserts... Un vrai bon plan.",
+		"telephone": null,
+		"site": "http://www.au-bouchon-breton.com",
+		"prix": " 18 - 52 EUR • Cuisine traditionnelle 18 - 52 EUR • Cuisine traditionnelle "
+	}
+,
+	{
+		"name": "Les Jardins du Léman",
+		"address": "Grande-Rue, Yvoire, 74140, France",
+		"description": "Au cœur de la cité médiévale, cette vénérable auberge propose des plats gourmands, joliment travaillés, et un sympathique menu gibier à l'automne. Le plus ? Une somptueuse terrasse panoramique sur le lac Léman, où vous vous attablerez les soirs d'été.",
+		"telephone": null,
+		"site": "http://www.lesjardinsduleman.com",
+		"prix": " 25 - 80 EUR • Cuisine moderne 25 - 80 EUR • Cuisine moderne "
+	}

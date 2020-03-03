@@ -133,4 +133,3 @@ async function write_in_file(tab_restaurants){
   stream.end();
 }
 
-

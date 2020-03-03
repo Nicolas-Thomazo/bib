@@ -12,6 +12,7 @@ var fs = require('fs');
  */
 module.exports.scraping = async function start(){
 
+  tab_restaurants = [];
   tab_link = [];
 let page = 1;
 for (i = 0; i<16; i++)
@@ -20,7 +21,6 @@ for (i = 0; i<16; i++)
   page++;
 }
 
-var stream = fs.createWriteStream("michelin.json", {flags:'a'});
 for(let page of tab_link){
   tab_link_one_page = await sandbox(page);
   for(link_one_page of tab_link_one_page)
@@ -29,18 +29,26 @@ for(let page of tab_link){
     {
       full_link = "https://guide.michelin.com/"+link;
       info = await scrapeInformationsRes(full_link);
+      tab_restaurants.push(info);
 
-      var json = JSON.stringify(info,null,'\t');
-      json = json.replace('[',',');
-      json = json.replace(']','');
+      
 
-      stream.write(json,function(err){
-        if(err) return console.error(err);
-       });
     }
   }
 }
-stream.end();
+write_in_file(tab_restaurants);
+
+}
+
+
+async function write_in_file(tab_restaurants){
+  var stream = fs.createWriteStream("michelin.json", {flags:'a'});
+  json = JSON.stringify(tab_restaurants,null,'\t');
+  
+  stream.write(json,function(err){
+    if(err) return console.error(err);
+   });
+  stream.end();
 }
 
 
@@ -54,6 +62,7 @@ scrapeInformationsRes = async url => {
   console.error(status);
   return null;
 };
+
 
 /**
  * for each pages get all the data we need put them in a tab and return it
@@ -78,7 +87,7 @@ const informations = data => {
 
   
   const site = $('.link.js-gtm-link:nth-child(2)').attr('href');
-  prix = $('.restaurant-details__heading-price').text();
+  prix = $('.restaurant-details__heading-price').first().text();
   size = prix.length;
   prix = prix.replace(/[\s]{2,}/g," ");
   //var description = $('.section-main .restaurant-details__heading-price').text();
@@ -92,7 +101,7 @@ const informations = data => {
   console.log(site);
   console.log(prix);
 */
-  tab = [{"name" : name,"address" : address,"description" : description,"telephone" : telephone,"site" : site,"prix" : prix}] 
+  tab = {"name" : name,"address" : address,"description" : description,"telephone" : telephone,"site" : site,"prix" : prix};
   return tab;
 };
 

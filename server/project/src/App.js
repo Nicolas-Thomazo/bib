@@ -20,9 +20,6 @@ function App() {
       <br />
       <br />
      
-        
-      
-
       <div>
         <ul className="list-group list-group-flush">          
           {restaurant.map((res,index) => {
@@ -53,7 +50,6 @@ function App() {
 export default App;
 /*
 const [count, setCount] = useState(0);
-
   return (
     <div className = 'container-fluid'>
       <div className = "App-header row">
@@ -72,7 +68,6 @@ const [count, setCount] = useState(0);
             </button>
             
         </form>
-
         <br />
         <div>
         <ul className="list-group list-group-flush">          

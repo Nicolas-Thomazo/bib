@@ -63,6 +63,7 @@ scrapeInformationsRes = async url => {
   return null;
 };
 
+const extractImageUrl = cheerioData => cheerioData[0].attribs["data-image"];
 
 /**
  * for each pages get all the data we need put them in a tab and return it
@@ -76,6 +77,10 @@ const informations = data => {
   //const experience = $('#experience-section > ul > li:nth-child(2)').text();
   const address = $('.section-main .restaurant-details__heading--list > li:nth-child(1)').text();
   const description = $('.js-show-description-text > p').text();
+  
+  const image = extractImageUrl($(".masthead__gallery-image-item"));
+
+
   telephone = $('.link.js-gtm-link').attr('href');
   telephone = telephone.replace('tel:+33 ',0);
   /*if(telephone)
@@ -101,7 +106,7 @@ const informations = data => {
   console.log(site);
   console.log(prix);
 */
-  tab = {"name" : name,"address" : address,"description" : description,"telephone" : telephone,"site" : site,"prix" : prix};
+  tab = {"name" : name,"address" : address,"description" : description,"telephone" : telephone,"site" : site,"prix" : prix, "image":image};
   return tab;
 };
 

@@ -1,116 +1,355 @@
-,
+[
 	{
 		"name": "Le Rousseau",
 		"address": "3 rue Jean-Jacques-Rousseau, Grenoble, 38000, France",
 		"description": "Le Rousseau, c'est un jeune chef, Élie Michel-Villaz, qui a fait de la simplicité son mantra et sa principale qualité. La partition est fraîche, travaillée avec beaucoup de soin, mariée à des flacons choisis avec amour (250 références, beaucoup de nature et biodynamie)... et servie en toute convivialité. Une affaire qui roule.",
-		"telephone": null,
+		"telephone": "04 76 14 86 75",
 		"site": "http://www.restaurantlerousseau.fr",
-		"prix": " 23 - 39 EUR • Cuisine actuelle 23 - 39 EUR • Cuisine actuelle "
-	}
-,
+		"prix": " 23 - 39 EUR • Cuisine actuelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/1154521_pro_6.jpg"
+	},
 	{
 		"name": "Les 3 Faisans",
 		"address": "330 rue des Auberges, Saint-Savin, 38300, France",
 		"description": "Aux pieds des vignes, ce restaurant abrite deux petites salles chaleureuses ; on peut aussi s'installer sur la terrasse ombragée, pendant que mijotent les délicieux plats imaginés par le chef – œuf poché, crème de pomme de terre et coppa, magret d'oie au gingembre confit... Jolie carte des vins qui compte environ 200 références.",
-		"telephone": null,
+		"telephone": "04 74 28 92 57",
 		"site": "http://www.les3faisans.fr",
-		"prix": " 32 - 65 EUR • Cuisine moderne 32 - 65 EUR • Cuisine moderne "
-	}
-,
+		"prix": " 32 - 65 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/29490_pro_1.jpg"
+	},
 	{
 		"name": "La Table du Sommelier",
 		"address": "20 rue Porta, Albi, 81000, France",
 		"description": "Père et fils, sommeliers de formation, travaillent en duo dans ce sympathique bistrot contemporain. Le résultat ? Une cuisine savoureuse, qui revisite habilement le terroir, un imposant choix de vins (500 références), et, l'été, deux terrasses au choix : sous la pergola ou à ciel ouvert... Une adresse hautement recommandable.",
-		"telephone": null,
+		"telephone": "05 63 46 20 10",
 		"site": "http://www.latabledusommelier.com",
-		"prix": " 18 - 53 EUR • Cuisine moderne 18 - 53 EUR • Cuisine moderne "
-	}
-,
+		"prix": " 18 - 53 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/145_pro_2.jpg"
+	},
 	{
 		"name": "Au Bouchon Breton",
 		"address": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
 		"description": "Charline et Jérôme ont métamorphosé cette ancienne crêperie du centre-ville de Dinard, et le résultat est ce Bouchon Breton où ils célèbrent la tradition bistrotière de belle manière. C'est savoureux, mitonné avec soin, et ils nous offrent même, il faut le noter, d'excellents desserts... Un vrai bon plan.",
-		"telephone": null,
+		"telephone": "02 99 46 85 95",
 		"site": "http://www.au-bouchon-breton.com",
-		"prix": " 18 - 52 EUR • Cuisine traditionnelle 18 - 52 EUR • Cuisine traditionnelle "
-	}
-,
+		"prix": " 18 - 52 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/454179_pro_3.jpg"
+	},
 	{
 		"name": "Les Jardins du Léman",
 		"address": "Grande-Rue, Yvoire, 74140, France",
 		"description": "Au cœur de la cité médiévale, cette vénérable auberge propose des plats gourmands, joliment travaillés, et un sympathique menu gibier à l'automne. Le plus ? Une somptueuse terrasse panoramique sur le lac Léman, où vous vous attablerez les soirs d'été.",
-		"telephone": null,
+		"telephone": "04 50 72 80 32",
 		"site": "http://www.lesjardinsduleman.com",
-		"prix": " 25 - 80 EUR • Cuisine moderne 25 - 80 EUR • Cuisine moderne "
-	}
-,
+		"prix": " 25 - 80 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/43416_pro_3.jpg"
+	},
 	{
 		"name": "La Maison de Marie",
 		"address": "24 rue Gabriel-Vicaire, Perros-Guirec, 22700, France",
 		"description": "Cette élégante maison en granit rose semble vibrer à l'unisson de la côte... Le chef, Daniel Jaguin, a pour boussole les beaux produits de la région (Saint-Jacques des Côtes-d'Armor, huîtres de Lanmodez, etc. ), qu'il agrémente avec une pointe d'originalité – notes exotiques, épices lointaines. Clair comme de l'eau de roche !",
-		"telephone": null,
+		"telephone": "02 96 49 05 96",
 		"site": "http://www.lamaisondemarie-laclarte.bzh",
-		"prix": " 33 - 80 EUR • Cuisine moderne 33 - 80 EUR • Cuisine moderne "
-	}
-,
+		"prix": " 33 - 80 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/69334_pro_3.jpg"
+	},
 	{
 		"name": "Auberge de la Clue",
 		"address": "place de l'Église, Plaisians, 26170, France",
 		"description": "En montant vers ce village montagnard, arrêtez-vous devant la jolie Clue, goulet d’étranglement où les cours d’eau s’emballent. On vient de loin pour savourer cette cuisine du terroir face au mont Ventoux : caillette aux herbes, pieds et paquets, terrine de fromage de tête... Attention : de novembre à mars, l'auberge n'ouvre que les weekends.",
-		"telephone": null,
-		"prix": " 30 - 60 EUR • Cuisine traditionnelle 30 - 60 EUR • Cuisine traditionnelle "
-	}
-,
+		"telephone": "04 75 28 01 17",
+		"prix": " 30 - 60 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/6968_pro_2.jpg"
+	},
 	{
 		"name": "La Récré",
 		"address": "70 route de Satillieu, Vaudevant, 07410, France",
 		"description": "Installé dans l'ancienne école de garçons du village, dont il a conservé les vestiges – tableau noir, cartes de géographie –, ce restaurant ne pouvait mieux porter son nom. On y découvre des créations pétillantes, qui piochent allègrement dans les produits du terroir ; et c'est encore meilleur lorsqu'on est attablé dans la cour ombragée...",
-		"telephone": null,
+		"telephone": "04 75 06 08 99",
 		"site": "http://www.restaurant-la-recre.com",
-		"prix": " 28 - 39 EUR • Cuisine moderne 28 - 39 EUR • Cuisine moderne "
-	}
-,
+		"prix": " 28 - 39 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/169769_pro_3.jpg"
+	},
 	{
-		"name": "Le Rousseau",
-		"address": "3 rue Jean-Jacques-Rousseau, Grenoble, 38000, France",
-		"description": "Le Rousseau, c'est un jeune chef, Élie Michel-Villaz, qui a fait de la simplicité son mantra et sa principale qualité. La partition est fraîche, travaillée avec beaucoup de soin, mariée à des flacons choisis avec amour (250 références, beaucoup de nature et biodynamie)... et servie en toute convivialité. Une affaire qui roule.",
-		"telephone": null,
-		"site": "http://www.restaurantlerousseau.fr",
-		"prix": " 23 - 39 EUR • Cuisine actuelle 23 - 39 EUR • Cuisine actuelle "
-	}
-,
+		"name": "Le Cèpe",
+		"address": "Immeuble Les Merisiers, Méribel, 73550, France",
+		"description": "Tout commence par de beaux produits du terroir, cèpes de la montagne ou poissons des lacs voisins, que le chef vient présenter fièrement à ses clients... Il en tire ensuite des recettes réjouissantes, fraîches et d'autant plus savoureuses que les tarifs sont imbattables. Une adresse bien dans sa peau, tout simplement !",
+		"telephone": "04 79 22 46 08",
+		"prix": " 33 - 80 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/396600_pro_1.jpg"
+	},
 	{
-		"name": "Les 3 Faisans",
-		"address": "330 rue des Auberges, Saint-Savin, 38300, France",
-		"description": "Aux pieds des vignes, ce restaurant abrite deux petites salles chaleureuses ; on peut aussi s'installer sur la terrasse ombragée, pendant que mijotent les délicieux plats imaginés par le chef – œuf poché, crème de pomme de terre et coppa, magret d'oie au gingembre confit... Jolie carte des vins qui compte environ 200 références.",
-		"telephone": null,
-		"site": "http://www.les3faisans.fr",
-		"prix": " 32 - 65 EUR • Cuisine moderne 32 - 65 EUR • Cuisine moderne "
-	}
-,
+		"name": "Athome",
+		"address": "16 rue de la Sienne, Heugueville-sur-Sienne, 50200, France",
+		"description": "Un jeune couple originaire de la région s'est installé dans ce presbytère du 18e s. Lionel, en cuisine, s'appuie sur une solide expérience (séjours en Australie et au Japon) et de bons produits locaux – maraîcher bio, pêche artisanale – ; Edwige, en salle, se révèle aussi souriante qu'efficace. Succès mérité !",
+		"telephone": "02 33 47 19 61",
+		"prix": " 33 - 55 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/460269_pro_1.jpg"
+	},
 	{
-		"name": "La Table du Sommelier",
-		"address": "20 rue Porta, Albi, 81000, France",
-		"description": "Père et fils, sommeliers de formation, travaillent en duo dans ce sympathique bistrot contemporain. Le résultat ? Une cuisine savoureuse, qui revisite habilement le terroir, un imposant choix de vins (500 références), et, l'été, deux terrasses au choix : sous la pergola ou à ciel ouvert... Une adresse hautement recommandable.",
-		"telephone": null,
-		"site": "http://www.latabledusommelier.com",
-		"prix": " 18 - 53 EUR • Cuisine moderne 18 - 53 EUR • Cuisine moderne "
-	}
-,
+		"name": "So",
+		"address": "15 rue  Amiral-Roussin, Dijon, 21000, France",
+		"description": "Épaulé en salle par Rié, sa compagne, le chef japonais, So Takahashi, seul aux fourneaux après avoir œuvré dans de belles maisons, travaille les produits qu'il achète directement au marché voisin. Le résultat : une cuisine française traversée d'inspirations nippones, finement exécutée, légère et parfumée... So good !",
+		"telephone": "03 80 30 03 85",
+		"prix": " 18 - 35 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/389807_001.jpg"
+	},
 	{
-		"name": "Au Bouchon Breton",
-		"address": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
-		"description": "Charline et Jérôme ont métamorphosé cette ancienne crêperie du centre-ville de Dinard, et le résultat est ce Bouchon Breton où ils célèbrent la tradition bistrotière de belle manière. C'est savoureux, mitonné avec soin, et ils nous offrent même, il faut le noter, d'excellents desserts... Un vrai bon plan.",
-		"telephone": null,
-		"site": "http://www.au-bouchon-breton.com",
-		"prix": " 18 - 52 EUR • Cuisine traditionnelle 18 - 52 EUR • Cuisine traditionnelle "
-	}
-,
+		"name": "La Table du Pouyaud",
+		"address": "57 route de Paris, Champcevinel, 24750, France",
+		"description": "Sur les hauteurs de Périgueux, le chef (et enfant du pays) Gilles Gourvat, vous reçoit dans cette ferme joliment rénovée. La cuisine, actuelle, revisite la tradition périgourdine, et privilégie les produits locaux (truffe en saison). Ainsi ce pied de cochon et fricassée d’escargots persillés, ou la volaille farcie et foie gras poêlé... Goûteux.",
+		"telephone": "05 53 09 53 32",
+		"site": "http://www.table-pouyaud.fr",
+		"prix": " 33 - 78 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/6887_pro_9.jpg"
+	},
 	{
-		"name": "Les Jardins du Léman",
-		"address": "Grande-Rue, Yvoire, 74140, France",
-		"description": "Au cœur de la cité médiévale, cette vénérable auberge propose des plats gourmands, joliment travaillés, et un sympathique menu gibier à l'automne. Le plus ? Une somptueuse terrasse panoramique sur le lac Léman, où vous vous attablerez les soirs d'été.",
-		"telephone": null,
-		"site": "http://www.lesjardinsduleman.com",
-		"prix": " 25 - 80 EUR • Cuisine moderne 25 - 80 EUR • Cuisine moderne "
+		"name": "Le Jardin Les Crayères",
+		"address": "7 avenue du Général-Giraud, Reims, 51100, France",
+		"description": "La \"petite adresse\" du Domaine Les Crayères est située dans une dépendance du parc : une brasserie chic, très contemporaine, avec sa jolie véranda et sa terrasse. On y apprécie une savoureuse cuisine de saison réalisée avec de beaux produits.",
+		"telephone": "03 26 24 90 90",
+		"site": "http://www.lescrayeres.com",
+		"prix": " 31 - 81 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/260582_pro_2.jpg"
+	},
+	{
+		"name": "Auberge de la Brenne",
+		"address": "19 rue de la République, Neuillé-le-Lierre, 37380, France",
+		"description": "Andouillette et sa tarte à l'échalote, lapin délicatement mijoté dans une sauce au sauvignon : la tradition et les bons produits ont trouvé leur repaire tourangeau. Accueil charmant. À 50 m du restaurant, maison des années 1900 disposant de chambres confortables.",
+		"telephone": "02 47 52 95 05",
+		"site": "http://www.auberge-brenne.com",
+		"prix": " 33 - 85 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/5359_pro_3.jpg"
+	},
+	{
+		"name": "Pierre & Jean",
+		"address": "2 rue de la Poste, Chagny, 71150, France",
+		"description": "Il ne s’agit pas du roman de Maupassant, mais de \"la maison d’en face\" du prestigieux Lameloise, du nom de ses fondateurs. Une \"annexe\" un rien canaille qui explore avec finesse la cuisine du moment et revisite les recettes des ancêtres. Les classiques de la maison : pâté en croûte tradition, entremets tout chocolat...",
+		"telephone": "03 85 87 08 67",
+		"site": "http://www.pierrejean-restaurant.fr",
+		"prix": " 33 - 47 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/262426_pro_2.jpg"
+	},
+	{
+		"name": "Racines by Daniel Gallacher",
+		"address": "59 rue Georges-Bonnac, Bordeaux, 33000, France",
+		"description": "Le nom Racines évoque celles, écossaises, du chef, comme son côté autodidacte. De fait, il signe une cuisine inventive et pétillante, loin des conventions, et fait évoluer chaque semaine son menu au gré du marché... Ces Racines-là sont aussi solides que goûteuses : le restaurant ne désemplit pas.",
+		"telephone": "05 56 98 43 08",
+		"prix": " 23 - 52 EUR • Cuisine créative ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/476617_pro_1.jpg"
+	},
+	{
+		"name": "Les Millésimes",
+		"address": "14 place de l'Hôtel-de-Ville, Noyers, 89310, France",
+		"description": "Ce restaurant champêtre et élégant se tient derrière la boucherie-charcuterie familiale. Le terroir et les vins bourguignons sont à l'honneur... ainsi que les produits maison ! Jambon persillé, tourte à l'époisses et pommes de terre, filet mignon de porc et jus aux oignons nouveaux...",
+		"telephone": "03 86 82 82 16",
+		"site": "http://www.maison-paillot.com",
+		"prix": " 30 - 33 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/202103_pro_4.jpg"
+	},
+	{
+		"name": "La Baie d'Halong",
+		"address": "49 rue de la Madeleine, Beauvais, 60000, France",
+		"description": "Fermez les yeux, vous êtes en Asie. Dans ce restaurant, le chef prépare une excellente cuisine vietnamienne alliant bons produits frais et savants dosages d'épices. Attention, l’adresse fait souvent salle comble le soir, d’autant que l’accueil, d'une gentillesse exquise, invite à prendre des habitudes...",
+		"telephone": "03 44 45 39 83",
+		"prix": " 29 - 43 EUR • Cuisine vietnamienne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/placeholder/iStock-157185809.jpg"
+	},
+	{
+		"name": "Auberge de la Baraque",
+		"address": "2 route de Bordeaux, Orcines, 63870, France",
+		"description": "Cette Baraque-là, tout comme les plats qu'on y prépare, n'est pas faite de bric et de broc ! Dans le cadre cosy et feutré à souhait (cheminée, moulures et lustres à pampilles) de ce relais de diligence (1800), on apprécie une cuisine actuelle de qualité, savoureuse et bien présentée. Service agréable, prix raisonnables et jolie carte des vins.",
+		"telephone": "04 73 62 26 24",
+		"site": "http://www.laubrieres.com",
+		"prix": " 33 - 62 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/67165_plat1_1.jpg"
+	},
+	{
+		"name": "Richer",
+		"address": "2 rue Richer, Paris, 75009, France",
+		"description": "Cette maison séduit autant par son esprit de cantine arty que par ses assiettes, qui dévoilent une cuisine du marché fraîche et goûteuse, à l'image de ces gambas et crème de fenouil. Attention cependant, le seul moyen de réserver est de... se présenter sur place.",
+		"telephone": "09 67 29 18 43",
+		"site": "http://www.lericher.com",
+		"prix": " 36 - 51 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/407984_pro_1.jpg"
+	},
+	{
+		"name": "La Table d'Arthur R",
+		"address": "9 rue Pierre Bérégovoy, Charleville-Mézières, 08000, France",
+		"description": "Cette table à la mode propose deux formules. Recettes traditionnelles et beaux flacons dans la cave voûtée ; au rez-de-chaussée, bistrot contemporain et grands classiques (tête de veau, steak tartare, etc. ). Soirées dégustations mets et vins (500 références). Décontracté et original !",
+		"telephone": "03 24 57 05 64",
+		"site": "http://www.latabledarthur.fr",
+		"prix": " 31 - 51 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/177117_pro_1.jpg"
+	},
+	{
+		"name": "Les Jardins de l'Acropolis",
+		"address": "rue d'Athènes, à Bourran, Rodez, 12000, France",
+		"description": "Les gourmands se donnent régulièrement rendez-vous dans ce restaurant contemporain, dont le chef concocte une cuisine du marché savoureuse, moderne et bien ficelée. Jarret de veau de lait confit, guimauve maison grillée au thé d'Aubrac... Des produits de qualité, des assaisonnements bien marqués : c'est frais et bon !",
+		"telephone": "05 65 68 40 07",
+		"site": "http://www.restaurant-acropolis.com",
+		"prix": " 26 - 60 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/7479_pro_3.jpg"
+	},
+	{
+		"name": "Lougolin",
+		"address": "381 route de Plascassier, Grasse, 06130, France",
+		"description": "Le chef Xavier Malandran prône ici une philosophie imparable : la fraîcheur au meilleur rapport qualité-prix. Ses recettes saisonnières, mâtinées de touches provençales, possèdent toujours la pointe de créativité qui fait la différence. Installez-vous si possible en terrasse, sous les tilleuls, et profitez de la vue sur la plaine et la ville de Grasse…",
+		"telephone": "04 93 60 14 44",
+		"site": "http://www.lougolin.com",
+		"prix": " 28 - 33 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/1000265_pro_4.jpg"
+	},
+	{
+		"name": "L'Oxygène",
+		"address": "La Charmette, Valmorel, 73260, France",
+		"description": "On est ravis de présenter ce duo d'associés, Benjamin (en cuisine) et Cyril (en salle), qui ont quitté les gorges du Verdon pour rejoindre les hauteurs de Valmorel... et ont déjà fait de ce restaurant d'hôtel une adresse tout à fait attachante. Assiettes soignées et savoureuses, ambiance de chalet cosy : à découvrir au plus vite.",
+		"telephone": "04 79 09 81 80",
+		"site": "http://www.oxygene-hotel.fr",
+		"prix": " 32 - 69 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/546956_pro_2.jpg"
+	},
+	{
+		"name": "SOlange",
+		"address": "59 rue d'Isly, Lille, 59000, France",
+		"description": "Du caractère ! La cheffe qui dresse les assiettes n'en manque pas : calme et concentrée, elle délivre une partition précise où poivres et piments viennent taquiner des produits d'une qualité irréprochable (maigre, veau), traités avec soin. Le rapport qualité-prix est simplement époustouflant. De la très belle bistronomie.",
+		"telephone": "09 86 37 22 50",
+		"site": "http://www.solange-restaurant.fr",
+		"prix": " 25 - 29 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/526057_pro_1.jpg"
+	},
+	{
+		"name": "Le Beauvoir",
+		"address": "1 avenue Marx-Dormoy, Bourges, 18000, France",
+		"description": "Une table élégante et accueillante, avec une terrasse sur la cour à l'arrière. À la suite de son beau-père, le chef concocte une appétissante cuisine traditionnelle où les produits frais ont la part belle. Une valeur sûre.",
+		"telephone": "02 48 65 42 44",
+		"site": "http://www.restaurant-lebeauvoir.com",
+		"prix": " 18 - 60 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/1336_pro_1.jpg"
+	},
+	{
+		"name": "B2K6",
+		"address": "6 rue du Caire, Lempdes, 63370, France",
+		"description": "Ce sympathique bistrot est né de la rencontre de deux jeunes passionnés : Jérôme Bru, ancien second d'Anne-Sophie Pic, et Romain Billard, sommelier, passé également par de fameuses maisons. Au menu : une belle cuisine, rythmée par les saisons et les produits locaux, accompagnée des vins adéquats. Une belle complicité !",
+		"telephone": "04 73 61 74 71",
+		"site": "http://www.b2k6.fr",
+		"prix": " 22 - 66 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/385483_pro_2.jpg"
+	},
+	{
+		"name": "L'Ormeau",
+		"address": "4 quai Thomas, Cancale, 35260, France",
+		"description": "Ce restaurant au cadre élégant (une salle récemment rénovée, avec vue sur la flottille de pêche) comblera les amateurs de poisson et de fruits de mer. En effet, comment refuser un plateau d'huîtres de Cancale, un filet de saint-pierre ou... des ormeaux ?",
+		"telephone": "02 99 89 60 16",
+		"site": "http://www.hotel-cancale.com",
+		"prix": " 32 - 80 EUR • Poissons et fruits de mer ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/10502_pro_9.jpg"
+	},
+	{
+		"name": "Téjérina-Hôtel de la Place",
+		"address": "51 Place de la Mairie, Polliat, 01310, France",
+		"description": "L'auberge familiale par excellence, où l'on vous sert avec le sourire une goûteuse et généreuse cuisine du terroir. Tête de veau, poulet à la crème, soufflé aux foies de volaille et grenouilles sont à l'honneur ! Chambres bien tenues pour prolonger l'étape.",
+		"telephone": "04 74 30 40 19",
+		"site": "http://www.restaurant-tejerina-logis.fr",
+		"prix": " 24 - 73 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/7029_pro_5.jpg"
+	},
+	{
+		"name": "Aux Plumes",
+		"address": "45 rue Boulard, Paris, 75014, France",
+		"description": "Une cuisine inspirée, gourmande et généreuse, réalisée par un jeune chef japonais passé par l'Astrance et le Chamarré Montmartre : voici ce qui vous attend ici. Les produits émanent des meilleurs commerçants du quartier (viandes du voisin Hugo Desnoyer, par exemple), on se régale au coude à coude dans une ambiance conviviale : allez-y les yeux fermés.",
+		"telephone": "01 53 90 76 22",
+		"site": "http://www.auxplumes.com",
+		"prix": " 32 - 60 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/531125_001.jpg"
+	},
+	{
+		"name": "DZ'envies",
+		"address": "12 rue Odebert, Dijon, 21000, France",
+		"description": "Des envies ? Faites confiance à David Zuddas et à ses initiales ! Dans son restaurant aux airs de cantine branchée, le chef laisse s'exprimer son amour du métier et des beaux produits. On se souviendra des légumes bio du moment ; de la truite du Jura, carotte de plein champ et orange et gomasio et, versant sucré, de la tartelette de coing, miel et pollen... On se régale.",
+		"telephone": "03 80 50 09 26",
+		"site": "http://www.dzenvies.com",
+		"prix": " 21 - 54 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/236596_004.jpg"
+	},
+	{
+		"name": "Le 11 Bistrot Gourmand",
+		"address": "11 rue de Verdun, Pontchâteau, 44160, France",
+		"description": "Au cœur de Pontchâteau, ce bistrot minimaliste fait saliver la région. À sa tête, un chef qui a, comme on dit, du métier, et qui revient ici à plus de simplicité, avec des plats ancrés dans une jolie tradition gourmande (rillettes de maquereau et pain grillé, onglet de bœuf et légumes braisés, éclair passion-citron, etc. ).",
+		"telephone": "02 40 42 23 28",
+		"site": "http://www.restaurant-le11.fr",
+		"prix": " 26 - 33 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/355981_ZMR_001.jpg"
+	},
+	{
+		"name": "Le Petit Paris",
+		"address": "au bourg, Daglan, 24250, France",
+		"description": "Au cœur d’un charmant village périgourdin, une table sympathique devancée par une grande terrasse. Ici, le chef – un enfant du pays – met un point d’honneur à valoriser les produits de sa région. Nem de confit de canard, sauce betterave-wasabi ; quasi de veau aux artichauts... Frais et savoureux !",
+		"telephone": "05 53 28 41 10",
+		"site": "http://www.le-petit-paris.fr",
+		"prix": " 32 - 41 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/22860_pro_2.jpg"
+	},
+	{
+		"name": "Le Bistro des Glycines",
+		"address": "4 avenue de Laugerie, Les Eyzies-de-Tayac, 24620, France",
+		"description": "L'un des atouts indéniables de cet excellent hôtel : son bistrot ! Dans la jolie salle en véranda, joliment décorée (tables en bois brut, chaises de style \"shaker\"... ), on se régale de plats dans l'air du temps, à bon rapport qualité-prix : œuf bio cuit en cocotte, tomates du potager, oignons et jambon noir de Bigorre... Miam.",
+		"telephone": "05 53 06 97 07",
+		"site": "http://www.les-glycines-dordogne.com",
+		"prix": " 19 - 45 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/400798_plat1_1.jpg"
+	},
+	{
+		"name": "La Table 101",
+		"address": "101 rue Moncey, Lyon, 69003, France",
+		"description": "À côté des halles Paul-Bocuse, une table où les bons produits sont à la fête ! Dans l'assiette, le résultat est sans appel : une cuisine goûteuse, avec une touche créative maîtrisée. On est enthousiasmé jusqu'au dernier coup de fourchette, et l'addition, légère, achève de nous convaincre. Belle carte des vins.",
+		"telephone": "04 78 60 90 23",
+		"site": "http://www.latable101.fr",
+		"prix": " 27 - 55 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/383943_plat2_1.jpg"
+	},
+	{
+		"name": "L'Îlot Vert",
+		"address": "34-36 rue de Lille, Boulogne-sur-Mer, 62200, France",
+		"description": "Une bonne surprise que ce restaurant aux airs de bistrot chic, où œuvre un jeune chef formé dans de belles maisons : il signe une cuisine bien d'aujourd'hui – avec une pointe de créativité –, joliment tournée et savoureuse, aux prix mesurés. Sympathique terrasse fleurie côté cour.",
+		"telephone": "03 21 92 01 62",
+		"site": "http://www.lilotvert.fr",
+		"prix": " 26 - 68 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/321464_pro_3.jpg"
+	},
+	{
+		"name": "Côté Toqués",
+		"address": "21 rue Hoche, Néris-les-Bains, 03310, France",
+		"description": "Après avoir roulé leur bosse dans le vin (ils tiennent toujours \"la Cave des Toqués\", juste à côté), les jeunes propriétaires ont ouvert cette épicerie-restaurant synonyme de plaisir : les meilleurs produits locaux sont mis en valeur avec quelques touches inventives, voire fusion, avec en prime de judicieux conseils sur le choix des vins.",
+		"telephone": "04 70 03 06 97",
+		"prix": " 22 - 46 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/placeholder/pic_poilist_default_0.jpg"
+	},
+	{
+		"name": "Côté Mer",
+		"address": "4 rue Ernest-Lamort, Cancale, 35260, France",
+		"description": "Un charmant petit port, des maisons de pêcheurs, l'air iodé du large... À Cancale, impossible de ne pas regarder Côté Mer ! Dans ce restaurant, face à la baie, les poissons, coquillages et crustacés ont le vent en poupe à travers une cuisine goûteuse et soignée. Un bon rapport qualité-prix.",
+		"telephone": "02 99 89 66 08",
+		"site": "http://www.restaurant-cotemer.fr",
+		"prix": " 30 - 90 EUR • Cuisine traditionnelle ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/195687_pro_4.jpg"
+	},
+	{
+		"name": "L'Auberge du Pont des Pierres",
+		"address": "754 rue Paul-de-Vanssay, Montanges, 01200, France",
+		"description": "Cette auberge, créée par un enfant du pays, ne désemplit pas ! Le jeune chef ne manque pas de talent pour cuisiner les produits de saison, souvent locaux, selon ses envies. Tout est fait maison (pain et glace compris) et l'on se régale... à petits prix. Jolie carte de vignerons indépendants.",
+		"telephone": "04 50 56 36 35",
+		"site": "http://www.pontdespierres.fr",
+		"prix": " 34 - 41 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/401863_pro_3.jpg"
+	},
+	{
+		"name": "Briket' Bistrot",
+		"address": "rue de L'Église, Guéthary, 64210, France",
+		"description": "L'hôtel de la famille Ibarboure accueille ce sympathique bistrot, indépendant du restaurant gastronomique. Le chef signe une cuisine soignée, délicate et pleine de goût, dans un cadre épuré. Les produits basques dominent logiquement la carte, mais s'agrémentent parfois de mets exotiques. L'équipe est jeune et avenante, les prix demeurent raisonnables. On se régale.",
+		"telephone": "05 59 26 51 34",
+		"site": "http://www.briketenia.com",
+		"prix": " 32 - 50 EUR • Cuisine moderne ",
+		"image": "https://d3h1lg3ksw6i6b.cloudfront.net/guide/fr/2020/xlarge/484559_pro_1.jpg"
 	}
+]
